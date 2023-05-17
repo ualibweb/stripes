@@ -24,7 +24,7 @@
     "@folio/stripes-form": "~8.1.0",
     "@folio/stripes-logger": "~1.0.0",
     "@folio/stripes-smart-components": "~8.1.0",
-    "@folio/stripes-types": "^1.0.1",
+    "@folio/stripes-types": "https://github.com/folio-org/stripes-types.git#peer-only",
     "@folio/stripes-ui": "~1.1.0",
     "@folio/stripes-util": "~5.2.1",
     "redux": "~4.0.0"
